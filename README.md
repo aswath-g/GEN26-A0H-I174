@@ -4,7 +4,7 @@
 ### Team Details
 #### **HACKTIVATORS** <<Insert Your Team Name>> <br/>
 #### Team Members
-|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  Accomodation |
+|         Role    |         👤 Name         |   🎓 Roll Number      |     ⚧️ Gender   |    🏫 Department / Programme   |  Accommodation |
 |:---------------:|:------------------------|:----------------------:|:---------------:|:-------------------------------:|:-------------------------------:|                                 
 |   Team Leader   |    ASWATH P              |     CB.SC.U4CSE26710                   |     MALE            |         CSE  |  hosteller(kashyappa bhavanam)
 |    Member 2     |     ASWATH G             |     CB.SC.U4CSE26206                   |     MALE            |          CSE |  hosteller(kashyappa bhavanam) 
